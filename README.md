@@ -10,5 +10,8 @@ Visit my blog for more details.
 [How to develop PIC32MX MCUs with Arduino IDE/VS Code](https://www.tnksoft.com/blog/?p=7389)
 [How to make chipKIT clone for PIC32MX230F064B](https://www.tnksoft.com/blog/?p=7402)
 
+## :yen: Donate, please!
+[![Donate For Free Project](https://www.tnksoft.com/donate/donate.svg "Donate For Free Project")](https://www.tnksoft.com/donate/?lang=en)
+
 ## :copyright: License
 [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
