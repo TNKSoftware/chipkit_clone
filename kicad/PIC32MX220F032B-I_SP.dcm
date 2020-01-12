@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC32MX220F032B-I_SP
+D MCU,PIC32MX,40MHz,32+3KB Flash,SPDIP28 Microchip PIC32MX220F032B-I/SP, 32bit PIC Microcontroller, 40MHz, 35 kB Flash, 28-Pin SPDIP
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en556030
+$ENDCMP
+#
+#End Doc Library

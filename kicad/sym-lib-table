@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PIC32MX220F032B-I_SP)(type Legacy)(uri ${KIPRJMOD}/PIC32MX220F032B-I_SP.lib)(options "")(descr ""))
+)
