@@ -8,9 +8,9 @@ This article introduces how to create a clone of the open source project "chipKI
 
 "pic32mx230f" directory contains an example of developing a customized bootloader and an archived built binary for PIC32MX230F064B.
 
-Visit my blog for more details:<br>
-[How to develop PIC32MX MCUs with Arduino IDE/VS Code](https://www.tnksoft.com/blog/?p=7389)<br>
-[How to make chipKIT clone for PIC32MX230F064B](https://www.tnksoft.com/blog/?p=7402)
+Visit my website for more details:<br>
+[How to develop PIC32MX MCUs with Arduino IDE/VS Code](https://www.tnksoft.com/reading/hardware/pic32/7389.php)<br>
+[How to make chipKIT clone for PIC32MX230F064B](https://www.tnksoft.com/reading/hardware/pic32/7402.php)
 
 ## :yen: Donate, please!
 [![Donate For Free Project](https://www.tnksoft.com/donate/donate.svg "Donate For Free Project")](https://www.tnksoft.com/donate/?lang=en)
